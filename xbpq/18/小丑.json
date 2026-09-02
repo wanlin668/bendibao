@@ -1,0 +1,15 @@
+{
+    "二次截取": "||站一--<urlset&&</urlset>",
+    "数组": "p:.nav-art-grid a||分类--p:.content-col a||首页--p:.art-grid a||站点地图--<video:video>&&</video:video>||站一--<url>&&</url>",
+    "标题": "p:.nav-card-overlay->text[不包含:最新萝]||分类--p:->text[不包含:上一#下一]||站点地图--<video:title>&&</video:title>||站一--分类未命名",
+    "图片": "p:img->src||分类--https://ic-tt-nss.xhmediacdn.com/a/YTE4ZDVhYjVlZGZlN2QxMDQ0Y2RmMDE3MjcwM2NmN2M/webp/000/154/010/avatar2.jpg.v1666610704||站点地图--https://ic-tt-nss.xhmediacdn.com/a/YTE4ZDVhYjVlZGZlN2QxMDQ0Y2RmMDE3MjcwM2NmN2M/webp/000/154/010/avatar2.jpg.v1666610704||站一--https://ic-tt-nss.xhmediacdn.com/a/YTE4ZDVhYjVlZGZlN2QxMDQ0Y2RmMDE3MjcwM2NmN2M/webp/000/154/010/avatar2.jpg.v1666610704",
+    "副标题": "p:.nav-card-date->text",
+    "链接": "p:->href||分类--p:->href+/page/{catePg}||站点地图--<video:player_loc>&&</video:player_loc>||站一--<loc>&&</loc><lastmod>+/page/{catePg}",
+    "二级目录": "分类,站一",
+    "二级ID": "",
+    "特殊分类链接": "分类$https://badyi.cc/{cateId}/page/{catePg}#站一$https://badyi.cc/{cateId}.xml#",
+    "跳转播放链接": "https://d2k58elwv8me3x.cloudfront.net/video+\"contentUrl\":*video&&\"",
+    "分类": "首页$https://badyi.cc/page/{catePg}#站点地图$https://badyi.cc/sitemap-video-5.xml#站一$sitemap-pages#后入$c11#玩偶姐姐$c8#蝴蝶逼$c19#蜜桃影像传媒$c58#主播$c41#饼干姐姐$c7#学妹$c66#精东影业$c47#姐弟$c65#情趣装扮$c97#分类$tags#",
+    "类型": "空||站二$https://badyi.cc/sitemap-video-1.xml#站三$https://badyi.cc/sitemap-video-2.xml#站四$https://badyi.cc/sitemap-video-3.xml#站五$https://badyi.cc/sitemap-video-4.xml#站六$https://badyi.cc/sitemap-video-5.xml#||空",
+    "分类url": "https://badyi.cc/{cateId}/page/{catePg};;z"
+}
