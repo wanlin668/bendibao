@@ -4,7 +4,7 @@
     "logo": "./img/logo.gif",
     "homeLogo": "./img/logo.gif",
     "warningText": "欢迎使用TVBox，祝您观影愉快",
-    "spider": "./js/9527.jar",
+    "spider": "./jar/9527.jar",
     "sites": [
         {
             "key": "cat_豆瓣",
