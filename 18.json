@@ -82,6 +82,28 @@
             "playerType": 2
         },
         {
+            "key": "py_2048",
+            "name": "📱2048短剧ᵖʸ｜夜晚",
+            "type": 3,
+            "api": "./py/18/2048短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_夜社",
+            "name": "📱夜社短剧ᵖʸ｜夜晚",
+            "type": 3,
+            "api": "./py/18/夜社短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "py_麻豆短剧",
             "name": "📱麻豆短剧ᵖʸ｜夜晚",
             "type": 3,
