@@ -11,12 +11,7 @@
             "name": "📱豆瓣ᶜᵃᵗ｜推荐",
             "type": 3,
             "api": "./js/豆瓣.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
+            "style":
         {
             "key": "Cat_聚合央视",
             "name": "🌎 聚合ᶜᵃᵗ丨央视",
