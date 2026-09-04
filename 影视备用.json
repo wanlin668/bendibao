@@ -21,7 +21,7 @@
             "key": "Cat_聚合央视",
             "name": "🌎 央视ᶜᵃᵗ丨推荐",
             "type": 3,
-            "api": "./open/yangshi_juhe.js",
+            "api": "./js/yangshi_juhe.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
