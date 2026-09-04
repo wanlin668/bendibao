@@ -6,12 +6,7 @@
     "warningText": "欢迎使用TVBox，祝您观影愉快",
     "spider": "./jar/9527.jar",
     "sites": [
-        {
-            "key": "cat_豆瓣",
-            "name": "📱豆瓣ᶜᵃᵗ｜推荐",
-            "type": 3,
-            "api": "./js/豆瓣.js",
-            "style":
+    
         {
             "key": "Cat_聚合央视",
             "name": "🌎 聚合ᶜᵃᵗ丨央视",
