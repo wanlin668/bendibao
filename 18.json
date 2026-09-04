@@ -73,6 +73,17 @@
             "playerType": 2
         },
         {
+            "key": "py_色妹妹",
+            "name": "📱色妹妹ᵖʸ｜夜晚",
+            "type": 3,
+            "api": "./py/18/色妹妹.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "py_2048",
             "name": "📱2048短剧ᵖʸ｜夜晚",
             "type": 3,
