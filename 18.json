@@ -73,6 +73,17 @@
             "playerType": 2
         },
         {
+            "key": "py_7色纺",
+            "name": "📱7色纺ᵖʸ｜夜晚",
+            "type": 3,
+            "api": "./py/18/7色纺.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "py_色妹妹",
             "name": "📱色妹妹ᵖʸ｜夜晚",
             "type": 3,
