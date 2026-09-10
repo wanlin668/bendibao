@@ -72,6 +72,17 @@
       "playerType": 2
     },
     {
+      "key": "py_推特ZJ",
+      "name": "📱推特ZJᵖʸ｜夜晚",
+      "type": 3,
+      "api": "./py/18/推特ZJ.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "py_TS伪娘",
       "name": "📱TS伪娘ᵖʸ｜夜晚",
       "type": 3,
