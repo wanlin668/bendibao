@@ -226,6 +226,17 @@
       "playerType": 2
     },
     {
+      "key": "py_推特",
+      "name": "📱推特1ᵖʸ｜夜晚",
+      "type": 3,
+      "api": "./py/18/推特.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "py_sm455",
       "name": "📱sm455ᵖʸ｜夜晚",
       "type": 3,
