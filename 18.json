@@ -72,6 +72,17 @@
       "playerType": 2
     },
     {
+      "key": "py_TS伪娘",
+      "name": "📱TS伪娘ᵖʸ｜夜晚",
+      "type": 3,
+      "api": "./py/18/TS伪娘.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "py_7色纺",
       "name": "📱7色纺ᵖʸ｜夜晚",
       "type": 3,
@@ -218,7 +229,7 @@
       "key": "py_推特",
       "name": "📱推特ᵖʸ｜夜晚",
       "type": 3,
-      "api": "./py/18/推特.py",
+      "api": "./py/18/推特涩涩_2.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
